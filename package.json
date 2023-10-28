@@ -1,0 +1,22 @@
+{
+  "name": "cloudpostoffice",
+  "version": "0.1.0",
+  "description": "Simple postbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakis/cloudpostoffice.git"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakis/cloudpostoffice/issues"
+  },
+  "homepage": "https://cloudpostoffice.com",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
